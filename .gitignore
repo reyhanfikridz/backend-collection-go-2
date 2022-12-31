@@ -1,0 +1,10 @@
+*.exe~
+*.exe
+*.tmp~
+*.tmp
+
+.env
+
+conf/app.conf
+routers/commentsRouter_controllers.go
+vendor
